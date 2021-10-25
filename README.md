@@ -6,10 +6,10 @@ but because my device has some upgrade (which is changing the HDD into SSD) all 
 
 ### What has been changed
 
-1.Moving the project from [bridge](https://bridge-core.app/) into [Visual Studio Code](https://code.visualstudio.com/)
-2.All shadow on labels has been removed
-3.Function is added
-4.Adding all blocks into creative menu
+## 1.Moving the project from [bridge](https://bridge-core.app/) into [Visual Studio Code](https://code.visualstudio.com/)
+## 2.All shadow on labels has been removed
+## 3.Function is added
+## 4.Adding all blocks into creative menu
 
 ### Support or Contact
 
