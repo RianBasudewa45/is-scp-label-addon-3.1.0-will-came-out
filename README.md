@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Will SCP Labels Addon Have a Future Update?
 
-You can use the [editor on GitHub](https://github.com/RianBasudewa45/is-scp-label-addon-3.1.0-will-came-out/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+some of you guys maybe thinking why SCP Labels Addon version is stuck/not being updated on 3.0.0, well i already make an update which is fixing the shadow on blocks, adding same feature like 2.0.0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+but because my device has some upgrade (which is changing the HDD into SSD) all my project file is gone this because i save my file on my C: drive so i've start to remake it again and it need time 
 
-### Markdown
+### What has been changed
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RianBasudewa45/is-scp-label-addon-3.1.0-will-came-out/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1.Moving the project from [bridge](https://bridge-core.app/) into [Visual Studio Code](https://code.visualstudio.com/)
+2.All shadow on labels has been removed
+3.Function is added
+4.Adding all blocks into creative menu
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+want to ask me something? feel free to contact me on [discord server](https://discord.gg/XMV7szVwHA) i will waitng for you guys see you!
